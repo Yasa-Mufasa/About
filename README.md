@@ -1,5 +1,5 @@
 # About Me
-![self](/Images/self.jpg)
+![self](/Images/self1.jpg)
 
 I am a master’s student at Bellevue University studying Data Science. I currently live in the Salt Lake Valley. I work in the Finance Industry as a Senior Analyst, specializing in Student Loans. I enjoy the challenge of working within a set of regulations and ensuring our customers are taken care of in the best way possible.
 
